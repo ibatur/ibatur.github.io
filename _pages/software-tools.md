@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /software-tools/
 title: "Software"
 gallery:
   - url: software/table.png
