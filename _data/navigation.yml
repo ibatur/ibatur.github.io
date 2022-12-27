@@ -12,8 +12,8 @@ main:
   - title: "Software"
     url: /software-tools/    
      
-  - title: "Posts"
-    url: /blog-posts/
+  - title: "Blog posts"
+    url: /posts/
     
   - title: "CV"
     url: /cv/
