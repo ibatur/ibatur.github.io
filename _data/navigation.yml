@@ -9,11 +9,11 @@ main:
   - title: "Presentations"
     url: /talks/    
 
-  - title: "Software"
-    url: /software-tools/    
+  # - title: "Software"
+  #   url: /software-tools/    
      
-  - title: "Blog posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
   - title: "CV"
     url: /cv/
