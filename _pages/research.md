@@ -6,10 +6,6 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-
-### Research Page
-
-**Introduction**:  
 My research focuses on the intersection of sustainability, resilience, and equity within urban transportation systems, aiming to understand the uncertainties, opportunities, vulnerabilities, and trade-offs brought about by widespread social, economic, and technological transformations. Through novel data collection, innovative analytical methods, and policy-relevant insights, my work contributes to the development of future transportation systems that are sustainable, resilient, and inclusive. My research is structured around four interconnected pillars, which provide a robust framework for addressing critical challenges in the transportation landscape.
 
 **Research Pillars**:  
