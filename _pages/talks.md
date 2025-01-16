@@ -7,7 +7,20 @@ author_profile: true
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">    
 This page lists only a selection of my presentations and talks. For the full list, please refer to my most recent [CV](cv.md).
 
+- <span style="font-size:14px">Batur I., Khoeini, S., Sharda, S., Magassy, T., Ye, X., & Pendyala, R. M. <i>A Methodology for Evaluating Wellbeing Implications of Activity-Travel Engagement and Time Use Patterns.</i> Presented at the 104th Annual Meeting of the Transportation Research Board, Washington, DC, January 5-9, 2025.</span>
+
+- <span style="font-size:14px">Yu, F., Batur, I., Haddad, A. J., Hennessy, E. M., Ocana, M. G. R., Chen, C., Zhou, X., Bhat, C. R., & Pendyala, R. M. <i>A U-Shaped Paradigm: Understanding the Impact of Telecommuting on Public Transit Ridership Before and After the Pandemic.</i> Presented at the 104th Annual Meeting of the Transportation Research Board, Washington, DC, January 5-9, 2025.</span>
+
+- <span style="font-size:14px">Alhassan, V. O., Yu, F., Valle, J. R. D., Magassy, T. B., Batur, I., Salon, D., Bhat, C. R., & Pendyala, R. M. <i>Investigating the Influence of Alternative Survey Participant Recruitment Strategies on Measurement and Inference of Mobility Patterns.</i> Presented at the 104th Annual Meeting of the Transportation Research Board, Washington, DC, January 5-9, 2025.</span>
+
+- <span style="font-size:14px">Batur I. <i>Data Dashboards for Behavioral and Wellbeing Insights: A Focus on Time, Travel, and Telework.</i> The Inaugural US DOT Future of Transportation Summit, Washington, DC, August 13-15, 2024.</span>
+
+- <span style="font-size:14px">Hennessy, E., Batur, I., Bhat, C. R., & Pendyala, R. M. <i>Understanding Factors Contributing to Electric Vehicle Ownership in California.</i> Presented at the International Conference on Transportation & Development, Atlanta, GA, June 15-18, 2024.</span>
+
+- <span style="font-size:14px">Batur I., Alhassan, V. O., Chester, M. V., Polzin, S. E., Chen, C., Bhat, C. R., & Pendyala, R. M. <i>Understanding How Extreme Heat Impacts Human Activity-Mobility and Time Use Patterns.</i> Presented at the 2024 PSR Annual Congress | Moving Forward: Improving Transportation in Region 9, March 11-12, 2024.</span>
+
 - <span style="font-size:14px">Batur I., A. Mondal, V. O. Alhassan, K.E. Asmussen, C.R. Bhat, and R.M. Pendyala. <i> The Induced Demand Implications of Alternative Adoption Modalities of Automated Vehicles. </i> Presented at the 103rd Annual Meeting of the Transportation Research Board, Washington, DC, January 7-11, 2024.</span>
+
 - <span style="font-size:14px">Batur I., V. O. Alhassan, M.V. Chester, S.E. Polzin, C. Chen, C.R. Bhat, and R.M. Pendyala. <i> Understanding How Extreme Heat Impacts Human Activity-Mobility and Time Use Patterns. </i> Presented at the 103rd Annual Meeting of the Transportation Research Board, Washington, DC, January 7-11, 2024.</span>
 - <span style="font-size:14px">Anderson, S.M., K.E. Asmussen, S. Saxena, I. Batur, R.M. Pendyala, and C.R. Bhat. <i> An Investigation of Dissonance in Telework Frequency. </i>  Presented at the 103rd Annual Meeting of the Transportation Research Board, Washington, DC, January 7-11, 2024. </span>
 - <span style="font-size:14px">Hwang, H., A. Haddad, I. Batur, S. Saxena, R.M. Pendyala, and C.R. Bhat. <i> An Analysis of Walking Frequency Before and After the Pandemic. </i> Presented at the 103rd Annual Meeting of the Transportation Research Board, Washington, DC, January 7-11, 2024.</span>
